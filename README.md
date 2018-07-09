@@ -14,10 +14,10 @@ openCV 3.4
 *See [Installing openCV3.4](http://www.python36.com/how-to-install-opencv340-on-ubuntu1604/) for instructions on how to install openCV3.4.*
 ## How to run
 
-open a terminal or console. Change the operating directory to where the ```robot_path.py``` is  and type in
+open a terminal or console. Change the operating directory to where the ```find_clearance.py``` is  and type in
 
 ```
-python robot_path.py ~/depth_image.txt
+python find_clearance.py ~/human_corridor_0.txt
 ```
 The argument is the text file representing the depth image
 
